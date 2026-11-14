@@ -1,0 +1,43 @@
+PS C:\Users\RICHARD\Downloads\codigo-clase4\Practicas\c4> dotnet run
+BUSQUEDA LINEAL Y BINARIA
+-------------------------
+Numero buscado: 8
+Posicion lineal: 4
+Posicion binaria: 4
+PS C:\Users\RICHARD\Downloads\codigo-clase4\Practicas\c4> dotnet run 
+COMPARACION DE BUSQUEDA LINEAL Y BINARIA
+-----------------------------------------
+Cantidad de datos: 1000000
+Cantidad de consultas: 1000
+
+Primera consulta: 1394348
+Posicion lineal: 697174
+Posicion binaria: 697174
+
+Preparacion completada.
+PS C:\Users\RICHARD\Downloads\codigo-clase4\Practicas\c4> 
+PS C:\Users\RICHARD\Downloads\codigo-clase4\Practicas\c4> dotnet run 
+
+COMPARACION DE BUSQUEDAS
+==============================
+Elementos: 1000000
+Consultas: 1000
+
+RESULTADOS:
+Busqueda lineal: 1297.407 ms
+Busqueda binaria: 0.309 ms
+
+Cociente: 4191.9 veces
+==============================
+
+COMPARACION DE BUSQUEDAS
+==============================
+Elementos: 1000000
+Consultas: 1000
+
+RESULTADOS:
+Busqueda lineal: 201.357 ms
+Busqueda binaria: 0.183 ms
+
+Cociente: 1098.3 veces
+==============================
